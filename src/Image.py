@@ -7,5 +7,5 @@ if s:    # frame captured without any errors
     namedWindow("cam-test");
     imshow("cam-test",img)
     waitKey(0)
-    destroyWindow("cam-test")
+    #destroyWindow("cam-test")
     imwrite("filename.jpg",img) #save image
