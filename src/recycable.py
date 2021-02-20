@@ -55,10 +55,10 @@ class Recyable():
                         items_dict[key]['content'] = [scrap.string]
                     else:
                         items_dict[key]['content'].append(scrap.string)
-                    element_scrapped+=1
-                    print("element scanned "+str(element_scrapped)+" out of "+str(element_count))
+                element_scrapped+=1
+                print("element scanned "+str(element_scrapped)+" out of "+str(element_count))
 
-            with open('./uploads/data.json', 'w') as fp:
+            with open('../uploads/data.json', 'w') as fp:
                 json.dump(items_dict, fp)
         return items_dict
 

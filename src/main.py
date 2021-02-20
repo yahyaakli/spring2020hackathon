@@ -3,7 +3,8 @@ import os
 
 from google.cloud import vision
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/Yahya/Downloads/hackathon-d17c6f5e9534.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="../uploads/hackathon-d17c6f5e9534.json"
+
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
 
