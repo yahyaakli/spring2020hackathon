@@ -5,7 +5,7 @@ import os
 
 from google.cloud import vision
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../uploads/My First Project-b734b57b22bb.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ".." #put your google API credintials here 
 
 # Instantiates a client
 client = vision.ImageAnnotatorClient()
