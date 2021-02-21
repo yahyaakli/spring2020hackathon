@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "superb-analog-305419",
+  "private_key_id": "b734b57b22bb88e1e46dbba85510e887c11f1bb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfjjGqa9mQQn29\nNLwsiG8xVN1AEaea/1cirzvOE0eOuyIoGk/lhH02ltbNRfZrzMAK7//ERW15vJ4N\njoXny1btqru4QxGd0GnzpPsQAywt4sq2dhFQ3oLcjNHylva+FooRtjUp4HYunm+H\nbTSHFmXX0Rv4NyttaUaFyX6Rbs7H11vXuqIlcq6lC57xFGQHbbcLSepHtzvTs0+7\nSg3GV3vVl6+cgx4Kl+zqc87bFpBoOrRXnISNZhcFXbImnPLt43J62KOy7Tqr7cDP\njrH6BUOorPacGWoWtxolha/syJDawrbNFzUqGgzzfo2i/JnL5+JZ7D+iwvyHe6Yl\nU5yVeBMDAgMBAAECggEAIi09KjoL0kDL2jlvjUJ0PubktZKSijrjmURb1RqAG2yu\nNlTchFdK0uSggjvYOuMSx8T8zjfo6UijulerCymdJy+JIkELhvhbmZrfRGDJl9Ka\nhVbpAp+G/GMVnZcEp1cAoCadYKj556Z8UU/tDnqXuhDKovJ+VONV/dZZTCGmHVwH\nR3Pr5+/6WFtsk0K9C5F617p2+rtvEAX/jM+1WIv6NBEXBJYROJuPwGhFZ1A6Zrzr\ncQ4aSHCSLeI+nlixh1TwdGH9XVWmrnw1LDyku9wu+j97d0v8cHBV/UDrp8eWjqeC\n2aetw4WZbFAujRrEqpejAwJYGtmlYTTZWHk+7NeZIQKBgQDXfsUiMAAqbhUHocuO\nfVUgg6/uew0XPunHTGAqvPDJGjFoADcelBZZmTc9cQx1OV+eaY3IAaqrG1i/BIxm\n7gXklsbeUn8VsRvTRtHXAssZhDKt1UEPsSic86tNglRGE+IDsgXNpZ38VSq6tzxo\nf5IB9uftv9UW4MeBE0NmcXiuOQKBgQC9i7TrOg3Y7x3kLlzHa0RrnbdnaGT1W/r1\n+089qoMiC4rXgAwjYD5i/e7inANv2rntz4nX0TultvNAXvMdq38FiGf1wF7mD/Uz\n9ExbTZPDGZm6jnf/bTz3ISsngAX08+uBJ1l8B5QClANQQNEetXrd5RbdMHlmYiGf\n/rje+EtLGwKBgAtRWyUqhDe2RGB8POak6n2krO7Hg65+3WRcPIjCF5tYRtQBfuOa\nP3pBM8eEUnUtqDn3rTyd6crGyuhtYrpdMe4JhTRT/Ny0ypNUGt1CBky2xrqegqZC\nVbG4knylpatwi+RJy0g7tIp2JqJb0U5jtNVplFDGTHjBIXlD+7w7pWzxAoGAcqQK\n+rKUKX8GXzpDV0HjkgtEIEEdvuCw+xHSrYNx6Kd+hDSoIsVVNl5Lm7esxHxQNCtw\nPZ4JK4NpwKcs9+b/3oLQDe0Z+J/yOEgr3pUfJ8NWHWWJ4m1ZkEb5aNyfvbXB3M3F\n66RRuvV2w5VQZfhxpb+ngoSNCIWVvMU9X25ha70CgYAKDp9UAiiXOsMfk9EJHdAb\nB7n12IbfS3YGtOEdRI7JjAaWA8Xr+GHhJIVKyRfEOrNRYaEC5h56uFIDg7/AqW14\noYRFr1DlP39kJOLQHHUo82vgc/zLkXJL90S2k45WjDd0Bq6GYEnBctZyTjTFm44n\n85CXNPwskaAEwrrumozTLw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "revuchackathon@superb-analog-305419.iam.gserviceaccount.com",
+  "client_id": "111686689585291976938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/revuchackathon%40superb-analog-305419.iam.gserviceaccount.com"
+}
