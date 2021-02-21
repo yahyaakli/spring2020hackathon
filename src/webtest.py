@@ -95,6 +95,6 @@ def analyze():
             L.append(In.findMatching(i.description))
         Sort_Tuple(L)
         list = [el[0] for el in L]
-    return render_template('analyzed.html', labels = list[0:len(list)//2])
+    return render_template('analyzed.html', labels = list)
 if __name__ == "__main__":
     app.run(debug=True)
