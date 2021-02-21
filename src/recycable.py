@@ -62,5 +62,3 @@ class Recyable():
                 json.dump(items_dict, fp)
         return items_dict
 
-R = Recyable()
-R.showRecycableInfo('Umbrella')
