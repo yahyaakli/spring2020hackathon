@@ -62,7 +62,7 @@ class Image():
 
     def findLabels(self):
         # The name of the image file to annotate
-        file_name = os.path.abspath(self.image)
+        file_name = self.image
 
         # Loads the image into memory
         with io.open(file_name, 'rb') as image_file:

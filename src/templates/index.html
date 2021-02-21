@@ -1,0 +1,28 @@
+{%extends "base.html"%}
+{%block title%}home page{%endblock%}
+{%block body%}
+
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Holy guacamole!</strong> Capture your object and learn how to recycle it!
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="row mb-2">
+
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">beta</strong>
+          <h3 class="mb-0">Take an image</h3>
+          <p class="mb-auto">Take an image and analyze now !</p>
+          <a href="/upload" class="stretched-link">Go</a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+{%endblock%}
+{%block jscript%}
+
+{%endblock%}

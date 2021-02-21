@@ -1,0 +1,16 @@
+{%extends "base.html"%}
+{%block title%}home page{%endblock%}
+{%block body%}
+
+<div class="">
+    <h1>{{item}}</h1>
+    <ul>
+    {%for phrase in info%}
+    <li>{{phrase}}</li>
+    {%endfor%}
+    </ul>
+</div>
+{%endblock%}
+{%block jscript%}
+
+{%endblock%}

@@ -1,0 +1,20 @@
+{%extends "base.html"%}
+{%block title%}home page{%endblock%}
+{%block body%}
+
+<div class="contentarea">
+
+     <div id="camera">
+        <img src="{{ url_for('video_feed') }}" alt="video feed">
+      </div>
+      <div id="btns-div">
+        <a href="{{ url_for('capture') }}">
+          <img src="{{ url_for('static',filename='picture.png') }}" alt="take picture" class="btn">
+        </a>
+      </div>
+
+</div>
+{%endblock%}
+{%block jscript%}
+
+{%endblock%}
